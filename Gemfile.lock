@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ffi (1.13.1)
+    get_process_mem (0.2.7)
+      ffi (~> 1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  get_process_mem
+
+BUNDLED WITH
+   2.1.4
